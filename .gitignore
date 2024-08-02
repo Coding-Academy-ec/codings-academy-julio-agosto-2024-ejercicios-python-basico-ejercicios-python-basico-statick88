@@ -1,0 +1,6 @@
+# Archivos generados por Python
+__pycache__/
+*.pyc
+
+# Archivos generados por pytest
+pytest_cache/
